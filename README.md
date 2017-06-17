@@ -1,18 +1,21 @@
-IDENTICAL NUMBERS 
+## IDENTICAL NUMBERS
 
-GAME MAKER TOOL : GAME MAKER STUDIO 1.4 (GM)
+### GAME MAKER TOOL : GAME MAKER STUDIO 1.4 (GM)
 
-export options : html5 , Android (native)
+**export options : html5 , Android (native)**
 
-file description :
+_file description :
 
-GMZ : Compressed and native GM project file
+_GMZ : Compressed and native GM project file
 
-APK : Android Executable
+_APK : Android Executable_
 
-NOTE: GMZ can be opened only with GM, APK must be compiled with GM
+> NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
--- Change log version 0.5.03 --
+
+
+
+**-- Change log version 0.5.03 --**
 
 -fixed other bugs on confirmation mail script
 
@@ -27,7 +30,7 @@ NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
 
 
--- Change log version 0.5.01 --
+**-- Change log version 0.5.01 --**
 
 -fixed a bug on confirmation mail script
 
@@ -47,7 +50,7 @@ NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
 
 
--- Change log version 0.1.700 --
+**-- Change log version 0.1.700 --**
 
 -Added Fabric with Crashlytics 
 
@@ -60,7 +63,7 @@ NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
 
 
--- Change log version 0.0.890 --
+**-- Change log version 0.0.890 --**
 
 -Added makeitapp baas functionality (get and post commands)
 
