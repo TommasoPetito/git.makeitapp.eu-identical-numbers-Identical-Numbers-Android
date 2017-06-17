@@ -22,7 +22,7 @@ NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
 -fixed some sound bugs
 
--Change log version 0.5.01 --
+-- Change log version 0.5.01 --
 
 -fixed a bug on confirmation mail script
 
