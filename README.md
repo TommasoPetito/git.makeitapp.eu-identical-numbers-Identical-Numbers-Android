@@ -26,7 +26,7 @@ NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
 -fixed a bug on confirmation mail script
 
-- Change log version 0.5.00 --
+-- Change log version 0.5.00 --
 
 -Added graphic improvements
 -Solved some minor bugfixes
