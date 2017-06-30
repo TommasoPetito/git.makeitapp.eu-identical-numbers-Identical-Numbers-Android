@@ -13,6 +13,13 @@ _APK : Android Executable_
 > NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
 
+**-- Change log version 0.5.10 --**
+
+-improved graphic
+
+-deleted unused images
+
+-code optimization 
 
 
 **-- Change log version 0.5.03 --**
