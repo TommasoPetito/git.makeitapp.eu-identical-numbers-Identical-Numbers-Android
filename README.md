@@ -4,7 +4,7 @@
 
 **export options : html5 , Android (native)**
 
-_file description :
+file description :
 
 _GMZ : Compressed and native GM project file
 
@@ -12,6 +12,16 @@ _APK : Android Executable_
 
 > NOTE: GMZ can be opened only with GM, APK must be compiled with GM
 
+
+**-- Change log version 0.5.20 --**
+
+-improved graphic
+
+-fixed some minor bugs
+
+-code optimization 
+
+-added Disclamer
 
 **-- Change log version 0.5.10 --**
 
@@ -49,7 +59,7 @@ _APK : Android Executable_
 
 -Added graphic improvements
 
--Solved some minor bugfixes
+-Solved some minor bugs
 
 -Added a confirmation email script
 
